@@ -17,7 +17,9 @@ public class NewClass {
 
     }
     public static void sayHello(String name){
-        System.out.println( "Hello "  +  name );
+        System.out.println( "Hello "  +  name )
+
+        System.out.println("788");
 
         System.out.println("666");
 
