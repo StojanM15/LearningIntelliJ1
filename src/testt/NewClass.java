@@ -21,6 +21,8 @@ public class NewClass {
 
         System.out.println("55");
 
+        System.out.println("21341");
+
         System.out.println("goodbye");
 
     }
